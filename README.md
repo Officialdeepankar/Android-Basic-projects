@@ -14,6 +14,7 @@ This is a Tic Tac Toe game Android application developed using Java and Android 
 
 ## Screenshots
 
+<img width="150" alt="tictactoe_02 " src="https://github.com/Officialdeepankar/TicTacToe-app-Android-dev-basics-/assets/89367371/b49fa686-3ca9-40d4-8d74-315f2e150251">
 
 ## Installation
 1. Clone or download the repository.
