@@ -13,7 +13,7 @@ This is a Tic Tac Toe game Android application developed using Java and Android 
 - Win Detection: Automatically detects wins and draws.
 
 ## Screenshots
-[Insert screenshots here]
+![tictactoe_01 screnshot](https://github.com/Officialdeepankar/TicTacToe-app-Android-dev-basics-/assets/89367371/43680407-9e37-4c11-b3e6-1d4bc9310c5d)
 
 ## Installation
 1. Clone or download the repository.
